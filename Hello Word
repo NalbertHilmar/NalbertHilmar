@@ -1,3 +1,0 @@
-print("Hello Word!")
-entrada = input("Digite seu nome: ")
-print("Olá",entrada,",é um prazer te conhecer.")
